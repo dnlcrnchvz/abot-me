@@ -1,0 +1,146 @@
+:root{
+    --navbar:    #c8e6c9 ;
+    --background-biography: #e4d6ff; 
+    --boton-songs: #FF99FF;
+    --boton-songs-hover:  #99CCFF ;
+}
+.navbar,
+.footer-page{
+    height: 120px;
+    background-color: var(--navbar);
+
+}
+.img-flower{
+    width: 100px;
+}
+li{
+    font-size:x-large;
+    font-family: "Belleza", sans-serif;
+    font-weight: 400;
+}
+
+.encabezado-principal{
+    text-align: center;
+    margin: 250px 100px 200px 100px;
+    padding: 100px 0px;
+    background-image: url(img/background1.jpeg);
+    font-size: 100px;
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+}
+.encabezado-principal img{
+    border-radius: 100%;
+    border:10px solid #4fa5fb;
+    width: 300px;
+    height: 300px;
+}
+
+.mi-biografia{
+    background-color: var(--background-biography);
+    text-align: center;
+    padding: 100px;
+}
+.mi-biografia h1,
+.mis-hobbies h1,
+.mis-canciones h1{
+    font-size:90px;
+    font-family: "Nanum Pen Script", cursive;
+    font-weight: 500;
+    font-style: normal;
+}
+.mi-biografia p{
+    background-image: url(img/note.jpg);
+    text-align: justify;
+    font-family: monospace;
+    font-size: large;
+    margin: 50px;
+    padding: 230px 100px 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.mi-biografia img{
+    width: 500px;
+    margin: 150px 100px 100px 100px;
+    border: 50px solid  #5c6bc0;
+}
+
+.mis-hobbies{
+    
+    
+    margin: 100px;
+}
+.mis-hobbies h1{
+    text-align: center;
+}
+.carousel-inner{
+    width: 500px;
+    margin: 100px;
+}
+
+.mis-canciones{
+    justify-items: center;
+    background-color:  #ef9a9a;
+    
+}
+.mis-canciones h1{
+    text-align: center;
+}
+.carousel-wrapper,
+.songs-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.songs-wrapper {
+    flex-wrap: wrap;
+}
+.card {
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    min-width: 350px;
+    min-height: 450px;
+    
+}
+div.carousel-inner{
+    height: 500px;
+    width: 400px;
+    margin:20px 0px;
+}
+div.carousel-wrapper{
+    background-color: white;
+}
+div.songs-wrapper{
+    background-color: #ef9a9a;
+    padding: 200px;
+}
+.btn-song{
+    background-color:  var(--boton-songs);
+}
+.btn-song:hover{
+    background-color: var(--boton-songs-hover);
+}
+
+h2{
+    font-size:x-large;
+    font-family: "Belleza", sans-serif;
+    font-weight: 400;
+}
+
+/* Pie de pagina (footer) */
+.footer-page{
+    display: flex; /* Activa flexbox */
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+}
+.derechos-de-autor {
+    font-size: 15px;
+    color: #827d7d;
+    padding: 20px;
+    font-size:x-large;
+    font-family: "Belleza", sans-serif;
+    font-weight: 400;
+}
