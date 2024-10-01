@@ -1,4 +1,5 @@
-# About me 🧜🏽‍♀️ ![Static Badge](https://img.shields.io/badge/HTML5-ec7063) ![Static Badge](https://img.shields.io/badge/CSS3-5dade2) ![Static Badge](https://img.shields.io/badge/Bootstrap-%23af7ac5%20)
+# About me 🧜🏽‍♀️ ![Static Badge](https://img.shields.io/badge/HTML5-ec7063) ![Static Badge](https://img.shields.io/badge/CSS3-5dade2) ![Static Badge](https://img.shields.io/badge/BOOTSTRAP-%23af7ac5%20)
+
 
 
 
