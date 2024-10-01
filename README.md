@@ -1,4 +1,5 @@
-# About me 🧜🏽‍♀️
+# About me 🧜🏽‍♀️ ![Static Badge](https://img.shields.io/badge/HTML5-ec7063)
+
 Bienvenidos a mi página personal, donde comparto un poco sobre mí, mis intereses y algunas de mis canciones favoritas. 🙌🏽
 
 ![image](https://github.com/user-attachments/assets/6493ba97-7ba0-4a58-8f91-692e5f9a60eb)
