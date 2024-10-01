@@ -1,4 +1,6 @@
-# About me
+# About me 🧜🏽‍♀️
+Bienvenidos a mi página personal, donde comparto un poco sobre mí, mis intereses y algunas de mis canciones favoritas. 🙌🏽
+
 ![image](https://github.com/user-attachments/assets/6493ba97-7ba0-4a58-8f91-692e5f9a60eb)
 
 ![image](https://github.com/user-attachments/assets/7b0d22bf-1995-4f3f-8302-b67a417d5540)
